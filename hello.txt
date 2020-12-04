@@ -9,3 +9,6 @@ utf-8编码
 add repo333333
 2331312
 asdfasdf
+add something to hello.txt
+手动阀
+23423432
